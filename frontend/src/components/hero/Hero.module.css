@@ -1,0 +1,7 @@
+.bgImg {
+  background: url("https://preview.colorlib.com/theme/banker/images/hero_2.jpg.webp");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: opacity(0.8);
+}
